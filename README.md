@@ -3,7 +3,7 @@
 
 > Senior Electronics and Communication Engineering Student @ Alexandria University, Interested in Embedded Systems and Automotive Industry.
 > Familiar with embedded software development, operating systems fundamentals, and computer architecture.
-> I have been developing embedded applications based on AVR and ARM-CORTEX processors.
+> I have been developing embedded applications based on AVR and ARM-Cortex processors.
 > I have implemented various MCAL & HAL device drivers.
 
 
